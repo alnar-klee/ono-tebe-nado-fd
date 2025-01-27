@@ -1,1 +1,1 @@
-git@github.com:alnar-klee/ono-tebe-nado-fd.git
+https://github.com/alnar-klee/ono-tebe-nado-fd
