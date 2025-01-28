@@ -145,6 +145,8 @@
   flex-direction: column;
   padding: 48px 40px 48px 40px;
   background-color: #000;
+  background-size: cover;
+  background-position: center;
   position: relative;
 }
 
@@ -180,20 +182,14 @@
 
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
-  background-size: cover;
-  background-position: center;
 }
 
 .card_type_book {
   background-image: url(../images/card-lot-02.jpg);
-  background-size: cover;
-  background-position: center;
 }
 
 .card_type_picture {
   background-image: url(../images/card-lot-03.jpg);
-  background-size: cover;
-  background-position: center;
 }
 
 .lots__look-more-link {
